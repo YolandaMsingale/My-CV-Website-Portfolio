@@ -43,7 +43,7 @@ Feel free to browse the sections, view my featured work, and reach out via the c
 ## 🌍 Live Website
 
 🚀 Check out the **live site** hosted on Netlify:  
-👉 https://thunderous-haupia-2c76e2.netlify.app
+👉 https://tiny-bombolone-6fa39f.netlify.app/
 
 ---
 
