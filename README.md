@@ -7,7 +7,6 @@ This site brings together my:
 - 💼 **Experience**
 - 🛠️ **Skills**
 - 🚀 **Projects**
-- 📄 **Resume**
 - 💬 **Contact Info**
 
 Whether you're here to check out my work, learn more about my background, or just explore — I'm glad you're here!  
@@ -16,8 +15,9 @@ Feel free to browse the sections, view my featured work, and reach out via the c
 ---
 
 ## 🖼️ Homepage Screenshot
+![Home](https://github.com/user-attachments/assets/3454d9b6-5382-4a9d-9d39-66652c33b359)
 
-![Homepage](https://github.com/user-attachments/assets/bc86e65e-25cd-4b5d-b2e0-ef46a083643e)
+
 
 ---
 
@@ -30,7 +30,6 @@ Feel free to browse the sections, view my featured work, and reach out via the c
   - `💼 Experience` – Work and internships
   - `🧪 Projects` – My personal and coding projects
   - `🛠️ Skills` – Technical and soft skills
-  - `📄 Resume` – Downloadable CV
   - `📬 Contact` – Reach out to me
 
 - 🌐 **Social Media Integration** with clickable icons:
@@ -39,14 +38,12 @@ Feel free to browse the sections, view my featured work, and reach out via the c
   - 📸 [Instagram](https://www.instagram.com/accounts/login/?next=%2Fjust.bladeee%2Fprofilecard%2F&source=omni_redirect)
   - 💻 [Codedex](https://www.codedex.io/@YolandaMsingale)
 
-- 📥 **Resume Download** button for quick access to my CV
-
 ---
 
 ## 🌍 Live Website
 
 🚀 Check out the **live site** hosted on Netlify:  
-👉 [https://tubular-raindrop-4e3d2a.netlify.app/](https://tubular-raindrop-4e3d2a.netlify.app/)
+👉 https://thunderous-haupia-2c76e2.netlify.app
 
 ---
 
