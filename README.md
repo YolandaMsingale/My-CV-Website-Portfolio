@@ -4,7 +4,6 @@
 
 This site brings together my:
 - 🎓 **Education**
-- 💼 **Experience**
 - 🛠️ **Skills**
 - 🚀 **Projects**
 - 💬 **Contact Info**
@@ -15,7 +14,8 @@ Feel free to browse the sections, view my featured work, and reach out via the c
 ---
 
 ## 🖼️ Homepage Screenshot
-![Home](https://github.com/user-attachments/assets/3454d9b6-5382-4a9d-9d39-66652c33b359)
+![HomePage](https://github.com/user-attachments/assets/8e856857-2ffd-4a26-9bd7-bfbfbb6b8d67)
+
 
 
 
@@ -27,7 +27,6 @@ Feel free to browse the sections, view my featured work, and reach out via the c
   - `🏠 Home` – Welcome and introduction
   - `👩‍💻 About` – Learn who I am
   - `🎓 Education` – My academic background
-  - `💼 Experience` – Work and internships
   - `🧪 Projects` – My personal and coding projects
   - `🛠️ Skills` – Technical and soft skills
   - `📬 Contact` – Reach out to me
@@ -43,7 +42,7 @@ Feel free to browse the sections, view my featured work, and reach out via the c
 ## 🌍 Live Website
 
 🚀 Check out the **live site** hosted on Netlify:  
-👉 https://tiny-bombolone-6fa39f.netlify.app/
+👉 https://chipper-cupcake-6f26ff.netlify.app/
 
 ---
 
